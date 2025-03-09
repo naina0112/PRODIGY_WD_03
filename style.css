@@ -2,7 +2,15 @@
   margin: 0;
   padding: 0;
 }
-
+nav{
+background-color: rgb(203, 235, 22);
+color: rgb(0, 0, 0);
+height: 20px;
+font-size: 10px;
+display: flex;
+align-items: center;
+padding: 0 12px;
+}
 body {
   background-color: #548687;
   text-align: center;
